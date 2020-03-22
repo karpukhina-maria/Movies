@@ -60,11 +60,10 @@
 			children = (
 				A5489DC824277EB500D44A78 /* AppDelegate.swift */,
 				A5489DCA24277EB500D44A78 /* SceneDelegate.swift */,
-				A5489DCC24277EB500D44A78 /* MovieListViewController.swift */,
+				A5489DDF2427C4E000D44A78 /* Files */,
 				A5489DDC24277F2000D44A78 /* Stotyboards */,
 				A5489DD124277EB700D44A78 /* Assets.xcassets */,
 				A5489DD624277EB700D44A78 /* Info.plist */,
-				A5489DDD2427918800D44A78 /* Movie.swift */,
 			);
 			path = Movies;
 			sourceTree = "<group>";
@@ -76,6 +75,15 @@
 				A5489DD324277EB700D44A78 /* LaunchScreen.storyboard */,
 			);
 			path = Stotyboards;
+			sourceTree = "<group>";
+		};
+		A5489DDF2427C4E000D44A78 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				A5489DCC24277EB500D44A78 /* MovieListViewController.swift */,
+				A5489DDD2427918800D44A78 /* Movie.swift */,
+			);
+			path = Files;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
