@@ -24,7 +24,7 @@ extension Movie {
         movies.append(Movie.init(title: "Начало", year: "2010"))
         movies.append(Movie.init(title: "Леон", year: "1994"))
         movies.append(Movie.init(title: "Король Лев", year: "1994"))
-        movies.append(Movie.init(title: "Бойцовский клуб", year: "1999"))
+//        movies.append(Movie.init(title: "Бойцовский клуб", year: "1999"))
         movies.append(Movie.init(title: "Иван Васильевич меняет профессию", year: "1973"))
 
         return movies
